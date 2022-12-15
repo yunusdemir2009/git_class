@@ -4,3 +4,5 @@ Duis aute irure dolor in reprehenderit
     officia deserunt mollit anim id est laborum.
 
     Lorem ipsum is an easy text filling way.
+    We can use lorem ipsum texts for more projects.
+    For example; when designing a newspaper webpage.
