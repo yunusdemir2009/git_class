@@ -1,1 +1,1 @@
-pulling a file from remote repository to local repository
+create a file on GitHub then commit and push a file from remote repository to local repository
